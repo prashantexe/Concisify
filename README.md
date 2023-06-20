@@ -10,7 +10,7 @@ Concisify is an open-source article summarizer that aims to make reading easier 
 - **Open Source**: Concisify is an open-source project, which means that anyone can contribute, improve the codebase, and customize it according to their needs.
 
 # ScreenShots
-![image](https://github.com/prashantexe/Concisify/assets/111880621/b24abc43-406f-4252-bc47-58be9e13907e)
+![image](https://github.com/prashantexe/Concisify/assets/111880621/28be835d-8eb6-42a3-8a56-526c0290e1e1)
 
 ![image](https://github.com/prashantexe/Concisify/assets/111880621/be48b962-4788-4365-bc4d-bfe64a8d8c2c)
 
